@@ -1,0 +1,100 @@
+
+**** ERROR file opened at 20230121 115551 India Standard Time, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:30128 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=rcmappdev, GWSERV=sapgw03, SYSNR=03
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 40.126.4.104, service 3303)
+TIME        Sat Jan 21 11:55:51 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8840
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at 20230121 115653 India Standard Time, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:27092 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=rcmappdev, GWSERV=sapgw03, SYSNR=03
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 40.126.4.104, service 3303)
+TIME        Sat Jan 21 11:56:53 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8840
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at 20230121 135356 India Standard Time, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:26168 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=rcmappdev, GWSERV=sapgw03, SYSNR=03
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 40.126.4.104, service 3303)
+TIME        Sat Jan 21 13:53:56 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8840
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at 20230121 135532 India Standard Time, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:18704 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=rcmappdev, GWSERV=sapgw03, SYSNR=03
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 40.126.4.104, service 3303)
+TIME        Sat Jan 21 13:55:32 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8840
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at 20230122 170847 India Standard Time, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:15864 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=rcmappdev, GWSERV=sapgw03, SYSNR=03
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 40.126.4.104, service 3303)
+TIME        Sun Jan 22 17:08:47 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8840
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
